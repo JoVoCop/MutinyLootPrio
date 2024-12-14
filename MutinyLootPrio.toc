@@ -1,0 +1,8 @@
+## Interface: 11505
+## Version: 1.0.0
+## Title: MutinyLootPrio
+## Notes: Mutiny-Nightslayer Loot Prio
+## Author: Jovo
+
+MutinyLootPrio.lua
+LootTable.lua
